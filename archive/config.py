@@ -1,0 +1,6 @@
+username="mne@yaposarl.ma"
+password="WAPwap124816"
+api_region=""
+user_apikey="6fcbd186-92b9-435a-8aa7-e557240ea121"
+bearer_token=""
+ip="41.251.84.62"
